@@ -27,18 +27,24 @@ body {
 
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
 	.main-area {
+		width: 100% !important;
+		height: 100%;
 		font-size: 36px !important;
 	}
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2) {
 	.main-area {
+		width: 100% !important;
+		height: 100%;
 		font-size: 40px !important;
 	}
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 3) {
 	.main-area {
+		width: 100% !important;
+		height: 100%;
 		font-size: 48px !important;
 	}
 }
